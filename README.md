@@ -204,4 +204,4 @@ This repository serves as the official landing page for Nearly Dead. The softwar
 **Get the most recent version of Nearly Dead today!**
 
 ---
-**Last updated:** 2026-11-09 11:15:42 UTC
+**Last updated:** 2026-11-09 22:14:00 UTC
